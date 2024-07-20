@@ -1,0 +1,77 @@
+@charset "UTF-8";
+
+header {
+    background-color: blue;
+    color: white;
+    padding: 9px; 
+    border: 3px solid black;
+    margin: -8px -8px 10px -8px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav > a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    box-shadow: 2px 2px 2px black;
+}
+#principal {
+    color: rgb(255, 255, 255);
+    margin-right: 30px;
+}
+.secundario {
+    color: red;
+    margin-right: 137px;
+    margin-left: 563px;
+}
+.terciario {
+    color: green;
+    margin-left: 494px;
+}
+footer {
+    background-color: blue;
+    padding: 10px;
+    color: white;
+    margin: -8px -8px 10px -8px;
+    border: 2px solid black;
+}
+
+#intel {
+    margin-bottom: 809px;
+    margin-left: 43px;
+    margin-top: -240px;
+    height: 16px;
+    width: 29px;
+}
+#amd {
+    margin-bottom: 807px;
+    margin-left: 598px;
+    margin-top: -322px;
+    margin-right: -660px;
+    height: 18px;
+    width: 19px;
+}
+
+#nvidia {
+    margin-bottom: 808px;
+    margin-left: 1320px;
+    margin-top: -401px;
+    margin-right: 10px;
+    height: 16px;
+    width: 29px;
+}
+section {
+    background-color: blue;
+    color: white;
+    margin: -37px -8px -1px -8px;
+    padding: 8px;
+    border: 3px solid black;
+}
+
+nav > a:hover {
+    text-decoration: underline;
+    
+}
+

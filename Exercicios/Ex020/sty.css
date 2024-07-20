@@ -1,0 +1,11 @@
+div:hover {
+    color: blue;
+}
+div > p {
+    display: none;
+}
+div:hover > p {
+    display: block;
+    width: 400px;
+    
+}

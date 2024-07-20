@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Satisfy&display=swap');
+h1,h2 {
+    font-family: 'Cookie', cursive, sans-serif;
+    font-family: 'Satisfy', cursive, sans-serif;
+    font-size: 22px;
+    font-weight: bold;
+}
+p {
+    font-family: 'Cookie', cursive;
+    font-family: 'Satisfy', cursive;
+    font-size: 18px;
+}

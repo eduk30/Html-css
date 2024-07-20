@@ -1,0 +1,15 @@
+h1 {
+    height: 83px;
+    width: 300px;
+    border: 1px solid black;
+    border-radius: 11px;
+    padding: 10px 983px 10px 10px;
+    margin: 10px;
+    outline: 5px solid cadetblue;
+}
+
+a {
+    border-width: 1px;
+    border-style: dotted;
+    border-color: black;
+}
